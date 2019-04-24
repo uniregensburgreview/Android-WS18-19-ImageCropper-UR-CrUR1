@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_name">ImageCropper</string>
+   <string name="button_takeImage">Take image</string>
+   <string name="button_chooseImageFromGallery">Choose image from gallery</string>
+   <string name="descripton_image">The image currently rendered</string>
+   <string name="button_cropImage">Crop Image</string>
+   <string name="button_saveCroppedImage">Save cropped image</string>
+   <string name="dialog_overwrite">Overwrite existing file?</string>
+</resources>
